@@ -16,7 +16,7 @@ Welcome to my **Machine Learning Projects** repository! 🤖📊 This repo conta
 - [📬 Contact](#-contact)
 
 ## 🔍 Overview
-This repository showcases practical **Machine Learning** applications using Python, TensorFlow, PyTorch, Scikit-learn, and other libraries. Each project is well-documented with **Jupyter Notebooks** and Python scripts for easy reproducibility.
+This repository showcases practical **Machine Learning** applications using Python, TensorFlow, PyTorch, Scikit-learn, and other libraries. Each project is well-documented with **Google Colab** , **Jupyter Notebooks** and Python scripts for easy reproducibility.
 
 ## 📂 Project List
 | Project Name | Description | Algorithms Used |
