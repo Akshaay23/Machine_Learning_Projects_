@@ -24,7 +24,7 @@ This repository showcases practical **Machine Learning** applications using Pyth
 | 📊 **Wine_Quality_Prediction** | Predict wine quality based on physicochemical properties. | Logistic Regression |
 |  **Insurance_cost_prediction** | Predict Insurance cost based on charges. | Linear Regression |
 |  **Diabetes Predictionn** | Predict Diabetes based on Outcome. | Support Vector Classifier |
-| 🏡 **House Price Prediction** | Predicts house prices using regression models | Linear Regression, XGBoost, Random Forest |
+|  **Car_Insurance_Claim_Prediction** | Predicts Car Insurance using XGBoost | Linear Regression, KNN, AdaBoost, Gradient Boost, XGBoost, Random Forest |
 | 🍎 **Image Classification** | Classifies images of fruits using deep learning | CNN, Transfer Learning (ResNet, VGG16) |
 | 📊 **Sentiment Analysis** | Analyzes sentiments from text reviews | NLP, LSTM, BERT |
 | 🔢 **Digit Recognition** | Recognizes handwritten digits from MNIST dataset | CNN, TensorFlow |
